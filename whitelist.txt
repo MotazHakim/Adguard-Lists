@@ -1,2 +1,108 @@
-@@|*.github.io^$important
+# My Adguard Home whitelist
+# Google
+#
+@@||0.client-channel.google.com^$important
+@@||2.android.pool.ntp.org^$important
+@@||android.clients.google.com^$important
+@@||clients1.google.com^$important
+@@||googleapis.com^$important
+@@||googleusercontent.com^$important
+@@||clients2.google.com^$important
+@@||clients3.google.com^$important
+@@||clients4.google.com^$important
+@@||clients5.google.com^$important
+@@||clients6.google.com^$important
+@@||cse.google.com^$important
+@@||googleapis.com^$important
+@@||gstatic.com^$important
+@@||manifest.googlevideo.com^$important
+@@||redirector.googlevideo.com^$important
+@@||video-stats.l.google.com^$important
+@@||geo3.ggpht.com^$important
+@@||yt3.ggpht.com^$important
+# Youtube
+#
+@@||s.youtube.com^$important
+@@||s2.youtube.com^$important
+@@||youtu.be^$important
+@@||youtube-nocookie.com^$important
+@@||i.ytimg.com^$important
+@@||i1.ytimg.com^$important
+@@||s.ytimg.com^$important
+#
+#Special#############################################################
 @@|*.mysterium.network^$important
+@@|*.oraclecloud.com^$important
+@@|*.cloudflare-dns.com^$important
+@@|*.honeygain.com^$important
+@@|*.noip.com^$important
+@@|*.windowsupdate.com^$important
+@@|*.alolabor.org^$important
+@@|*.motazhakim.com^$important
+#################################################################
+# Github
+@@||github.com^$important
+@@||github.io^$important
+@@||raw.githubusercontent.com^$important
+# Cloudflare
+@@||cdn.cloudflare.net^$important
+@@||cdnjs.cloudflare.com^$important
+# Dropbox
+@@||dl.dropbox.com^$important
+@@||dl.dropboxusercontent.com^$important
+@@||ns1.dropbox.com^$important
+@@||ns2.dropbox.com^$important
+# No-IP.com
+@@||no-ip.com^$important
+# Twitter
+@@||twimg.com^$important
+@@||twitter.com^$important
+@@||t.co^$important
+# Optimizely
+@@||cdn.optimizely.com^$important
+@@||cdn2.optimizely.com^$important
+@@||cdn3.optimizely.com^$important
+# Akamai Technologies
+@@||akamaihd.net^$important
+@@||akamaitechnologies.com^$important
+@@||akamaized.net^$important
+@@||widget-cdn.rpxnow.com^$important
+@@||akamai.net^$important
+@@||akadns.net^$important
+# Wordpress
+@@||wp.com^$important
+@@||wordpress.com^$important
+# Spotify
+@@||open.spotify.com^$important
+@@||mobile-ap.spotify.com^$important
+@@||apresolve.spotify.com^$important
+@@||upgrade.scdn.com^$important
+@@||spclient.wg.spotify.com^$important
+@@||ap.spotify.com^$important
+@@||audio-ake.spotify.com.edgesuite.net^$important
+@@||audio4-ak.spotify.com.edgesuite.net^$important
+# Apple
+@@||gdmf.apple.com.akadns.net^$important
+@@||apple.com^$important
+@@||apple-dns.net^$important
+@@||icloud.com^$important
+@@||itunes.com^$important
+@@||mzstatic.com^$important
+@@||apple-dns.net^$important
+@@||cdn-apple.com^$important
+@@||iphone-ld.origin-apple.com.akadns.net^$important
+@@||ax.phobos.apple.com.edgesuite.net^$important
+@@||init-p01md-lb.push-apple.com.akadns.net^$important
+@@||uts-api-cdn.itunes-apple.com.akadns.net^$important
+@@||np-edge-cdn.itunes-apple.com.akadns.net^$important
+@@||iadsdk.apple.com.akadns.net^$important
+@@||play.itunes.apple.com.edgesuite.net^$important
+# Weather
+@@||worldweather.wmo.int^$important
+@@||yr.no^$important
+# Lets Encrypt
+@@||letsencrypt.org^$important
+# WhatsApp
+@@||whatsapp.net^$important
+@@||whatsapp.com^$important
+
