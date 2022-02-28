@@ -1,1 +1,2 @@
 @@|*.github.io^$important
+@@|*.mysterium.network^$important
