@@ -37,6 +37,7 @@
 @@||oraclecloud.com^$important
 @@|*.oraclecloud.com^$important
 @@||cloudflare-dns.com^$important
+@@||cloudflare.com^$important
 @@|*.honeygain.com^$important
 @@|*.noip.com^$important
 @@|*.windowsupdate.com^$important
