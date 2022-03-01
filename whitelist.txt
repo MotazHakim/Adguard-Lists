@@ -35,6 +35,7 @@
 @@||location.mysterium.network^$important
 @@||mysterium.network^$important
 @@||oraclecloud.com^$important
+@@|*.oraclecloud.com^$important
 @@||cloudflare-dns.com^$important
 @@|*.honeygain.com^$important
 @@|*.noip.com^$important
