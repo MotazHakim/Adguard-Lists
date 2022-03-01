@@ -36,6 +36,9 @@
 @@||mysterium.network^$important
 @@||oraclecloud.com^$important
 @@|*.oraclecloud.com^$important
+@@||telemetry-ingestion.eu-frankfurt-1.oraclecloud.com^$important
+@@|*.oci.oraclecloud.com^$important
+@@||oci.oraclecloud.com^$important
 @@||cloudflare-dns.com^$important
 @@||cloudflare.com^$important
 @@|*.honeygain.com^$important
