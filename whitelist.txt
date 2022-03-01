@@ -32,6 +32,7 @@
 #
 #Special#############################################################
 @@|*.mysterium.network^$important
+@@||location.mysterium.network^$important
 @@||mysterium.network^$important
 @@||oraclecloud.com^$important
 @@||cloudflare-dns.com^$important
