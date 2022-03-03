@@ -1,4 +1,22 @@
 # My Adguard Home whitelist
+#Special#############################################################
+@@|*.mysterium.network^$important
+@@||location.mysterium.network^$important
+@@||mysterium.network^$important
+@@||oraclecloud.com^$important
+@@|*.oraclecloud.com^$important
+@@||telemetry-ingestion.eu-frankfurt-1.oraclecloud.com^$important
+@@|*.oci.oraclecloud.com^$important
+@@||oci.oraclecloud.com^$important
+@@||cloudflare-dns.com^$important
+@@||cloudflare.com^$important
+@@|*.honeygain.com^$important
+@@|*.noip.com^$important
+@@|*.windowsupdate.com^$important
+@@|*.alolabor.org^$important
+@@|*.motazhakim.com^$important
+*.notion.so
+#################################################################
 # Google
 #
 @@||0.client-channel.google.com^$important
@@ -30,23 +48,6 @@
 @@||i1.ytimg.com^$important
 @@||s.ytimg.com^$important
 #
-#Special#############################################################
-@@|*.mysterium.network^$important
-@@||location.mysterium.network^$important
-@@||mysterium.network^$important
-@@||oraclecloud.com^$important
-@@|*.oraclecloud.com^$important
-@@||telemetry-ingestion.eu-frankfurt-1.oraclecloud.com^$important
-@@|*.oci.oraclecloud.com^$important
-@@||oci.oraclecloud.com^$important
-@@||cloudflare-dns.com^$important
-@@||cloudflare.com^$important
-@@|*.honeygain.com^$important
-@@|*.noip.com^$important
-@@|*.windowsupdate.com^$important
-@@|*.alolabor.org^$important
-@@|*.motazhakim.com^$important
-#################################################################
 # Github
 @@||github.com^$important
 @@||github.io^$important
