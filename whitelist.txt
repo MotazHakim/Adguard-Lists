@@ -16,6 +16,10 @@
 @@|*.alolabor.org^$important
 @@|*.motazhakim.com^$important
 *.notion.so
+*.ibm.com
+#mining
+*.2miners.com
+*.nicehash.com
 #################################################################
 # Google
 #
