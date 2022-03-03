@@ -24,6 +24,8 @@
 #reddit
 *.redd.it
 *.reddit.com
+*.redditstatic.com
+*.redditmedia.com
 #
 # Google
 #
