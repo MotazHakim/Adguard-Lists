@@ -21,6 +21,10 @@
 *.2miners.com
 *.nicehash.com
 #################################################################
+#reddit
+*.redd.it
+*.reddit.com
+#
 # Google
 #
 @@||0.client-channel.google.com^$important
