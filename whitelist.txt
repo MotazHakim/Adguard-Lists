@@ -52,6 +52,7 @@
 @@||github.com^$important
 @@||github.io^$important
 @@||raw.githubusercontent.com^$important
+@@||githubusercontent.com^$important
 # Cloudflare
 @@||cdn.cloudflare.net^$important
 @@||cdnjs.cloudflare.com^$important
