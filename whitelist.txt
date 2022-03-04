@@ -18,7 +18,12 @@
 @@|*.motazhakim.com^$important
 @@|*.shahed4u.dev^$important
 @@|*.digitalocean.com^$important
+@@|*.digitaloceanspaces.com^$important
 @@|*.access-programmers.co.uk^$important
+@@|*.storj.io^$important
+@@|*.stripe.com^$important
+@@|*.termius.com^$important
+@@|*.digicert.com^$important
 *.notion.so
 *.ibm.com
 *.binance.me
@@ -117,6 +122,7 @@
 @@||audio4-ak.spotify.com.edgesuite.net^$important
 # Apple
 @@||gdmf.apple.com.akadns.net^$important
+@@||aaplimg.com^$important
 @@||icloud-content.com^$important
 @@||apple.news^$important
 @@||edgekey.net^$important
@@ -142,4 +148,3 @@
 # WhatsApp
 @@||whatsapp.net^$important
 @@||whatsapp.com^$important
-
