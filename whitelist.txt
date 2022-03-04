@@ -17,6 +17,11 @@
 @@|*.motazhakim.com^$important
 *.notion.so
 *.ibm.com
+*.binance.me
+*.binance.com
+*.elmenus.com
+*.intercom.io
+*.intercomcdn.com
 #mining
 *.2miners.com
 *.nicehash.com
