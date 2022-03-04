@@ -115,6 +115,9 @@
 @@||audio4-ak.spotify.com.edgesuite.net^$important
 # Apple
 @@||gdmf.apple.com.akadns.net^$important
+@@||icloud-content.com^$important
+@@||apple.news^$important
+@@||edgekey.net^$important
 @@||apple.com^$important
 @@||apple-dns.net^$important
 @@||icloud.com^$important
