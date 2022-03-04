@@ -30,6 +30,7 @@
 *.2miners.com
 *.nicehash.com
 @@|*.powernode.io^$important
+@@|*.coinmarketcap.com^$important
 #################################################################
 #Gmail
 *.gmail.com
