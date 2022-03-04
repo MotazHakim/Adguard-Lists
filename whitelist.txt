@@ -18,6 +18,7 @@
 @@|*.motazhakim.com^$important
 @@|*.shahed4u.dev^$important
 @@|*.digitalocean.com^$important
+@@|*.access-programmers.co.uk^$important
 *.notion.so
 *.ibm.com
 *.binance.me
