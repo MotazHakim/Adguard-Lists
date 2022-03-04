@@ -5,6 +5,7 @@
 @@||mysterium.network^$important
 @@||oraclecloud.com^$important
 @@|*.oraclecloud.com^$important
+@@|*.oracle.com^$important
 @@||telemetry-ingestion.eu-frankfurt-1.oraclecloud.com^$important
 @@|*.oci.oraclecloud.com^$important
 @@||oci.oraclecloud.com^$important
@@ -15,6 +16,8 @@
 @@|*.windowsupdate.com^$important
 @@|*.alolabor.org^$important
 @@|*.motazhakim.com^$important
+@@|*.shahed4u.dev^$important
+@@|*.digitalocean.com^$important
 *.notion.so
 *.ibm.com
 *.binance.me
@@ -25,7 +28,11 @@
 #mining
 *.2miners.com
 *.nicehash.com
+@@|*.powernode.io^$important
 #################################################################
+#Gmail
+*.gmail.com
+*.outlook.com
 #reddit
 *.redd.it
 *.reddit.com
