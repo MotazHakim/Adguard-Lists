@@ -75,6 +75,7 @@
 @@||github.io^$important
 @@||raw.githubusercontent.com^$important
 @@||githubusercontent.com^$important
+@@||github-cloud.s3.amazonaws.com^$important
 # Cloudflare
 @@||cdn.cloudflare.net^$important
 @@||cdnjs.cloudflare.com^$important
