@@ -1,8 +1,13 @@
 # My Adguard Home whitelist
 #Special#############################################################
+@@|*.haxpc.net^$important
+@@|*.hsoub.com^$important
+@@|*.invicti.com^$important
+@@|*.abbaspc.net^$important
+@@|*.yunosurveys.com^$important
+@@|*.zoom.us^$important
+@@|*.appcloud.mcafee.com^$important
 @@|*.mysterium.network^$important
-@@||location.mysterium.network^$important
-@@||mysterium.network^$important
 @@||oraclecloud.com^$important
 @@|*.oraclecloud.com^$important
 @@|*.oracle.com^$important
