@@ -3,6 +3,7 @@
 @@|*.haxpc.net^$important
 @@|*.hsoub.com^$important
 @@|*.invicti.com^$important
+@@|*.grammarly.com^$important
 @@|*.abbaspc.net^$important
 @@|*.yunosurveys.com^$important
 @@|*.zoom.us^$important
