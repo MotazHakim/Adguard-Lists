@@ -2,7 +2,6 @@
 #Special#############################################################
 @@|*.haxpc.net^$important
 @@|*.sndcdn.com^$important
-
 @@|*.hsoub.com^$important
 @@|*.invicti.com^$important
 @@|*.grammarly.com^$important
