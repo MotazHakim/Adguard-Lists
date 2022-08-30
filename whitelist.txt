@@ -46,11 +46,11 @@
 #################################################################
 #ALO
 @@||flickr.com^$important
-*.flickr.com
-*.flickrprints.com
-*.staticflickr.com
-*.alolabor.org
-@@||alolabor.or^$importantg
+@@||flickrprints.com^$important
+@@||staticflickr.com^$important
+@@||yahooapis.com^$importantg
+@@||alolabor.org^$importantg
+
 #Gmail
 *.gmail.com
 *.outlook.com
