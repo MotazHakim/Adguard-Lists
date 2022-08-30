@@ -48,8 +48,9 @@
 @@||flickr.com^$important
 @@||flickrprints.com^$important
 @@||staticflickr.com^$important
-@@||yahooapis.com^$importantg
-@@||alolabor.org^$importantg
+@@|*.flickrpro.com
+@@|*.yahooapis.com^$importantg
+@@|*.alolabor.org^$importantg
 
 #Gmail
 *.gmail.com
