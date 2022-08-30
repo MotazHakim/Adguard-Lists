@@ -44,6 +44,11 @@
 @@|*.powernode.io^$important
 @@|*.coinmarketcap.com^$important
 #################################################################
+#ALO
+@@||flickr.com^$important
+*.flickr.com
+*.alolabor.org
+@@||alolabor.or^$importantg
 #Gmail
 *.gmail.com
 *.outlook.com
