@@ -47,6 +47,8 @@
 #ALO
 @@||flickr.com^$important
 *.flickr.com
+*.flickrprints.com
+*.staticflickr.com
 *.alolabor.org
 @@||alolabor.or^$importantg
 #Gmail
