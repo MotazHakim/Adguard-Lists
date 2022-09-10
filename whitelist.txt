@@ -5,9 +5,9 @@
 @@|*.hsoub.com^$important
 @@|*.invicti.com^$important
 @@|*.grammarly.com^$important
-@@|*.abbaspc.net^$important
+@@||*.abbaspc.net^$important
 @@|*.yunosurveys.com^$important
-@@|*.zoom.us^$important
+@@||*.zoom.us^$important
 @@|*.appcloud.mcafee.com^$important
 @@|*.mysterium.network^$important
 @@||oraclecloud.com^$important
