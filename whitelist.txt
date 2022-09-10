@@ -37,6 +37,9 @@
 @@||*.binance.com
 @@||*.binance.cloud
 @@||*.bnbstatic.com
+@@||*.docker.com
+@@||*.mystnodes.com
+@@||*.ftm.tools
 @@||*.elmenus.com
 @@||*.intercom.io
 @@||*.intercomcdn.com
