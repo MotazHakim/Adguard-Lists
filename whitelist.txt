@@ -38,7 +38,6 @@
 @@||*.binance.cloud
 @@||*.bnbstatic.com
 @@||*.docker.com
-@@||*.mystnodes.com
 @@||*.ftm.tools
 @@||*.elmenus.com
 @@||*.intercom.io
@@ -48,6 +47,8 @@
 @@||*.nicehash.com
 @@||*.powernode.io^$important
 @@||*.coinmarketcap.com^$important
+@@||*.mystnodes.com
+@@||*.cryptocompare.com
 #################################################################
 #ALO
 @@||flickr.com^$important
