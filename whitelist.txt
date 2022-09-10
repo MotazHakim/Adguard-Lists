@@ -42,6 +42,7 @@
 @@||*.elmenus.com
 @@||*.intercom.io
 @@||*.intercomcdn.com
+@@||*.iproyal.com
 #mining
 @@||*.2miners.com
 @@||*.nicehash.com
