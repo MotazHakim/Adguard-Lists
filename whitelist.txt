@@ -35,6 +35,8 @@
 @@||*.ibm.com
 @@||*.binance.me
 @@||*.binance.com
+@@||*.binance.cloud
+@@||*.bnbstatic.com
 @@||*.elmenus.com
 @@||*.intercom.io
 @@||*.intercomcdn.com
@@ -52,10 +54,10 @@
 @@||*.yahooapis.com^$importantg
 @@||*.alolabor.org^$importantg
 #
-#Gmail
+# Emails
 *.gmail.com
 *.outlook.com
-#reddit
+# Reddit
 *.redd.it
 *.reddit.com
 *.redditstatic.com
@@ -82,6 +84,7 @@
 @@||video-stats.l.google.com^$important
 @@||geo3.ggpht.com^$important
 @@||yt3.ggpht.com^$important
+#
 # Youtube
 #
 @@||s.youtube.com^$important
