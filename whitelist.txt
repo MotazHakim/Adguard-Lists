@@ -40,7 +40,7 @@
 *.intercomcdn.com
 #mining
 *.2miners.com
-*.nicehash.com
+@@|*.nicehash.com
 @@|*.powernode.io^$important
 @@|*.coinmarketcap.com^$important
 #################################################################
