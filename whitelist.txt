@@ -32,6 +32,7 @@
 @@|*.termius.com^$important
 @@|*.digicert.com^$important
 @@|*.godaddy.com^$important
+@@|*.wsimg.com^$important
 *.notion.so
 @@||*.ibm.com
 @@||*.binance.me
