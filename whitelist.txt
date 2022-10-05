@@ -62,7 +62,7 @@
 @@||staticflickr.com^$important
 @@||*.flickrpro.com
 @@||*.yahooapis.com^$importantg
-@@|*.alolabor.org^$importantg
+@@||alolabor.org^$importantg
 #
 # Emails
 *.gmail.com
