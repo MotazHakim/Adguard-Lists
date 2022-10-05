@@ -33,6 +33,9 @@
 @@|*.digicert.com^$important
 @@|*.godaddy.com^$important
 @@|*.wsimg.com^$important
+@@|*.authy.com^$important
+@@|*.aximtrade.com^$important
+@@|*.autofxpro.com^$important
 *.notion.so
 @@||*.ibm.com
 @@||*.binance.me
@@ -59,7 +62,7 @@
 @@||staticflickr.com^$important
 @@||*.flickrpro.com
 @@||*.yahooapis.com^$importantg
-@@||*.alolabor.org^$importantg
+@@|*.alolabor.org^$importantg
 #
 # Emails
 *.gmail.com
