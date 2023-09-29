@@ -9,6 +9,8 @@
 @@|mysterium.network^$important
 @@||oracle.com^$important
 @@||honeygain.com^$important
+@@||cdn.honey.io^
+@@||joinhoney.com^
 @@||noip.com^$important
 @@||windowsupdate.com^$important
 @@||shahed4u.dev^$important
@@ -16,12 +18,14 @@
 @@||digitaloceanspaces.com^$important
 @@||access-programmers.co.uk^$important
 @@||storj.io^$important
+@@||1clickvpn.net^
 @@||stripe.com^$important
 @@||termius.com^$important
 @@||wsimg.com^$important
 @@||authy.com^$important
 @@||notion.so^
 @@||ibm.com^
+@@||ifconfig.me^
 @@||binance.me^
 @@||binance.com^
 @@||binance.org^
