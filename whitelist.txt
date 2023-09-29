@@ -38,11 +38,12 @@
 @@|*.autofxpro.com^$important
 *.notion.so
 @@||*.ibm.com
-@@||*.binance.me
-@@||*.binance.com
-@@||*.binance.org
-@@||*.binance.cloud
-@@||*.bnbstatic.com
+@@||binance.me^
+@@||binance.com^
+@@||binance.org^
+@@||binance.cloud^
+@@||bnbchain.org^
+@@||bnbstatic.com^
 @@||*.docker.com
 @@||*.ftm.tools
 @@||*.elmenus.com
