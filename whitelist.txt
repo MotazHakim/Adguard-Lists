@@ -44,6 +44,13 @@
 @@||coinmarketcap.com^$important
 @@||mystnodes.com^
 @@||cryptocompare.com^
+@@||telegram.me^
+@@||telegram.org^
+@@||nextcloud.org^
+@@||adobe.io^
+@@||adobe.com^
+@@||me.com^
+@@||logitech.io^
 #################################################################
 #ALO
 @@||flickr.com^$important
