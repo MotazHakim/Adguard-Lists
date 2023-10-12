@@ -239,10 +239,11 @@
 @@||motazhakim.com^$important
 @@||oci.oraclecloud.com^$important
 @@||digicert.com^$important
+# MetaMask
 @@||shimmer.network^$important
-
-
-
+@@||etherscan.io^$important
+@@||infura.io^$important
+@@||iotaheroes.com^$important
 
 
 
