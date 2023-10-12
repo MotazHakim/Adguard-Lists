@@ -239,7 +239,7 @@
 @@||motazhakim.com^$important
 @@||oci.oraclecloud.com^$important
 @@||digicert.com^$important
-
+@@||shimmer.network^$important
 
 
 
