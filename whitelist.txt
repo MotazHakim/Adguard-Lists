@@ -1,6 +1,7 @@
 # My Adguard Home whitelist
 #Special#############################################################
 @@||haxpc.net^$important
+@@||igetintopc.com^$important
 @@||hsoub.com^$important
 @@||invicti.com^$important
 @@||grammarly.com^$important
