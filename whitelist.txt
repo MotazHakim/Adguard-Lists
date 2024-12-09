@@ -1,5 +1,6 @@
 # My Adguard Home whitelist
 #Special#############################################################
+@@||pump.fun^$important
 @@||haxpc.net^$important
 @@||igetintopc.com^$important
 @@||hsoub.com^$important
