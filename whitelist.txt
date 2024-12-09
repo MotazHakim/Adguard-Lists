@@ -1,6 +1,9 @@
 # My Adguard Home whitelist
 #Special#############################################################
+@@||bullx.io^$important
 @@||pump.fun^$important
+@@||solscan.io^$important
+@@||metamask.io^$important
 @@||haxpc.net^$important
 @@||igetintopc.com^$important
 @@||hsoub.com^$important
